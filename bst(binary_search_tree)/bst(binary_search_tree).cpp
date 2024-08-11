@@ -1,4 +1,4 @@
-﻿//binary search tree نمایش میانوندی یک درخت 
+﻿//inorder showing of a binary search tree:
 #include <iostream>
 using namespace std;
 
